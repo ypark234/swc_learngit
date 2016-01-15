@@ -2,3 +2,4 @@ This the first line of my file.
 Second line added.
 3rd line is awesome.
 Another line goes here.
+5th line :)
